@@ -1,2 +1,1 @@
-# stormyark.de
-Just my website
+https://stormyark.de
